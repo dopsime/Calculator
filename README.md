@@ -1,4 +1,4 @@
-# [C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) Проект Калькулятор | Project Calculator !
+# ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) Проект Калькулятор | Project Calculator
 
 ## Обзор | Overview
 
