@@ -49,4 +49,4 @@
 
 ### Связаться | Contact
 - Email: gleb.suv.66@gmail.com
-- Telegram: @dopsime
+- Telegram: [@dopsime](https://t.me/dopsime)
